@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshidivanshu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on Django Projects
 - 📫 How to reach me joshidivanshu16@gmail.com
 
